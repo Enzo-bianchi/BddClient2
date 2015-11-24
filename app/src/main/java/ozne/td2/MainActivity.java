@@ -56,7 +56,7 @@ public class MainActivity extends Activity {
                 .build();
 
         GitHubService git = retrofit.create(GitHubService.class);
-        Call call = git.getUser("enygmatik92");
+        Call call = git.getUser("Enzo-bianchi");
 
         call.enqueue(new Callback<User>() {
             @Override
