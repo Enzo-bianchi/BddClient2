@@ -1,8 +1,6 @@
 # BddClient2
 TP2
-A] Etude des données d’une application mobile
-Dans cette partie, nous allons étudier les données d’une application mobile. En particulier, il est demandé de lister, voir structurer, les différentes données traitées dans l’application précédemment conçue. Ensuite, pour chaque donnée ou jeu de données, il s’agit d’y associer un moyens de stockage Android.
-Reprenez l’application conçue dans le TD n°1, app. lié à Github ou bien app. de météo.
+
 1. Identifier les données locales et distantes à traiter dans l’application, structurer les données complexes dans un schéma.
 2. Pour chaque donnée ou ensemble de données, choisir un moyen de stockage local dans l’environnement Android.
 
